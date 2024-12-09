@@ -1,3 +1,1 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Mary-Krause/Mary-Krause/blob/main/tumblr_ojvwonqIax1sv5krro1_540.gif" width="600"/>
-</div>
+<iframe src="https://giphy.com/embed/3kPDmoWdBpQPNhCnUG" width="480" height="384" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">via GIPHY</a></p>
