@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://github.com/Mary-Krause/Mary-Krause/blob/main/tumblr_ojvwonqIax1sv5krro1_540.gif" alt="The unlimited width-"600">
 <!--
 **Mary-Krause/Mary-Krause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
