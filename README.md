@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Hello](images/228488a31f8042f3c2c98cde80c312ce.gif)
+![Hello](Image/228488a31f8042f3c2c98cde80c312ce.gif)
 <!--
 **Mary-Krause/Mary-Krause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
